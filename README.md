@@ -41,7 +41,7 @@ across selected regions in South Africa. It allows users to:
 
 3.Run the app:
     
-    streamlit run app_ profiler.py
+    run_streamlit.py
 
 
 ## Sample Data
