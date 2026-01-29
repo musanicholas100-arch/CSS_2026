@@ -37,7 +37,7 @@ across selected regions in South Africa. It allows users to:
 
 2. Type this command on your terminal(command prompt, power shell.....) to Install dependencies:
 
- pip install streamlit pandas numpy
+    pip install streamlit pandas numpy
 
 3.Run the app:
     
